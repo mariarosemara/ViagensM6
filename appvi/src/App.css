@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  min-height: 100vh !important;
+}
+
+.navbar-nav {
+  flex-direction: row !important;
+  justify-content: space-between !important;
+}
+
+.rowItem {
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: aliceblue;
+  color: black;
+  min-width: 20rem !important;
+  max-width: 30%;
+}
+
+.homeBanner {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: rgb(57, 115, 165);
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-w {
+  min-width: 20rem !important;
+  max-width: 30%;
+}
